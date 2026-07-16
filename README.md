@@ -3,10 +3,10 @@
 ## MSc Dissertation Project
 
 ### Author
-Abhilash G
+Shivani burma
 
 ### University
-University of East London (UEL)
+The University of Roehampton
 
 ---
 
