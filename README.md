@@ -108,16 +108,17 @@ Supply-Chain-Attack-Detection/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── best_supply_chain_model.pkl
-├── enhanced_final_detection_dataset.csv
-├── top100_packages.csv
-├── notebooks/
-│     Supply_Chain_Detection.ipynb
-│
+├── models/
+│     └── best_supply_chain_model.pkl
+├── data/
+│     ├── enhanced_final_detection_dataset.csv
+│     └── top100_packages.csv
+├── pages/
 ├── plots/
-│
+├── notebooks/
+│     └── Supply_Chain_Detection.ipynb
 ├── screenshots/
-│
+└── images/
 └── models/
 ```
 
@@ -250,7 +251,7 @@ The Streamlit dashboard allows users to:
 
 # Results
 
-Machine learning performance:
+## Internal Evaluation
 
 | Model | Accuracy |
 |--------|----------|
@@ -258,14 +259,15 @@ Machine learning performance:
 | Decision Tree | 100% |
 | Random Forest | 100% |
 
-External Validation
+All three machine learning models achieved perfect classification performance on the internally constructed testing dataset. This is largely attributed to the highly separable nature of the engineered metadata features, particularly the SimilarityScore used during dataset construction. While these results demonstrate the effectiveness of the selected features on the training dataset, they should be interpreted alongside the external validation results, which provide a more realistic assessment of the framework's generalisation capability.
 
-- Packages Tested: 100
-- Packages Detected: 85
-- Detection Rate: 85%
+## External Validation
 
----
+- Packages Tested: **100**
+- Packages Detected as Suspicious: **78**
+- Detection Rate: **78%**
 
+The trained Decision Tree model was evaluated using 100 previously unseen malicious Python packages obtained from the OpenSSF Malicious Packages Repository. The model successfully detected 78 malicious packages, achieving a detection rate of 78%. This external validation demonstrates that the proposed framework can identify the majority of real-world malicious packages, while also highlighting that some attacks exhibit metadata characteristics different from those represented in the synthetic training dataset. These findings indicate that external validation provides a more realistic evaluation of model performance than the internal testing results.
 # Repository
 
 This repository contains:
@@ -291,4 +293,4 @@ Dataset
 
 # License
 
-This project was developed for academic purposes as part of the MSc Computing dissertation at the University of East London.
+This project was developed for academic purposes as part of the MSc Computing dissertation at the University of Roehampton.
