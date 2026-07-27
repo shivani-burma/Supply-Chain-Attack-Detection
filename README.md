@@ -172,7 +172,7 @@ best_supply_chain_model.pkl
 Clone the repository.
 
 ```bash
-(https://github.com/shivani-burma/Supply-Chain-Attack-Detection)
+git clone https://github.com/shivani-burma/Supply-Chain-Attack-Detection.git
 ```
 
 ---
