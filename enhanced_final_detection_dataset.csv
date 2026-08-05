@@ -1,0 +1,803 @@
+Package,SimilarityScore,Label,NameLength,Version,Author,SummaryLength,ReleaseCount,PackageAgeDays
+requests,0,0,8,2.34.2,,23,163,5606
+numpy,0,0,5,2.5.0,Travis E. Oliphant et al.,49,148,7142
+pandas,0,0,6,3.0.3,,71,115,6022
+Django,0,0,6,6.0.6,,96,434,5879
+Flask,0,0,5,3.1.3,,57,64,5910
+tensorflow,0,0,10,2.21.0,Google Inc.,69,138,3471
+torch,0,0,5,2.12.1,,74,48,2753
+scipy,0,0,5,1.18.0,,57,107,5808
+matplotlib,0,0,10,3.11.0,"John D. Hunter, Michael Droettboom",23,141,7468
+pytest,0,0,6,9.1.1,"Brianna Laugher, Bruno Oliveira, Floris Bruynooghe, Freya Bruhin, Holger Krekel, Others (See AUTHORS), Ronny Pfannschmidt",43,192,5687
+fastapi,0,0,7,0.138.0,,86,296,2752
+seaborn,0,0,7,0.13.2,,30,36,4619
+keras,0,0,5,3.14.1,,19,120,3855
+opencv-python,0,0,13,4.13.0.92,,43,62,2959
+pillow,0,0,6,12.2.0,,29,106,5804
+SQLAlchemy,0,0,10,2.0.51,Mike Bayer,28,324,7433
+beautifulsoup4,0,0,14,4.15.0,,23,54,4645
+streamlit,0,0,9,1.58.0,,41,264,3015
+plotly,0,0,6,6.8.0,,64,317,4757
+xgboost,0,0,7,3.3.0,,22,95,3958
+jupyter,0,0,7,1.1.1,Jupyter Development Team,66,4,3967
+notebook,0,0,8,7.6.0,,77,209,3979
+pydantic,0,0,8,2.13.4,,39,203,3336
+uvicorn,0,0,7,0.49.0,,31,193,3303
+transformers,0,0,12,5.12.1,The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors),169,233,3595
+nltk,0,0,4,3.9.4,NLTK Team,24,65,6185
+spacy,0,0,5,3.8.14,Explosion,63,216,4165
+sympy,0,0,5,1.14.0,SymPy development team,39,67,6630
+networkx,0,0,8,3.6.1,,64,96,7010
+statsmodels,0,0,11,0.14.6,,46,41,5115
+lightgbm,0,0,8,4.6.0,,23,37,3284
+catboost,0,0,8,1.2.10,CatBoost Developers,23,95,3261
+dash,0,0,4,4.3.0,Chris Parmer,71,216,3288
+bokeh,0,0,5,3.9.1,Bokeh Team,61,262,4622
+Scrapy,0,0,6,2.16.0,,52,112,6035
+selenium,0,0,8,4.45.0,,47,230,6631
+openpyxl,0,0,8,3.1.5,See AUTHORS,57,96,5793
+xlrd,0,0,4,2.0.2,Chris Withers,87,25,7401
+pyarrow,0,0,7,24.0.0,,31,63,3384
+dask,0,0,4,2026.6.0,,36,234,4162
+pyspark,0,0,7,4.1.2,Spark Developers,23,70,3266
+joblib,0,0,6,1.5.3,,44,108,6447
+tqdm,0,0,4,4.68.3,,31,146,4621
+Faker,0,0,5,40.23.0,joke2k,59,485,5659
+rich,0,0,4,15.0.0,Will McGugan,95,207,2415
+httpx,0,0,5,0.28.1,,32,74,2529
+aiohttp,0,0,7,3.14.1,,44,310,4622
+cryptography,0,0,12,49.0.0,,99,157,4547
+paramiko,0,0,8,5.0.0,,21,151,5717
+bcrypt,0,0,6,5.0.0,,58,28,4790
+pytest-cov,0,0,10,7.1.0,,37,54,5902
+flake8,0,0,6,7.3.0,Tarek Ziade,53,94,5792
+black,0,0,5,26.5.1,,34,73,3021
+isort,0,0,5,8.0.1,,50,153,4579
+mypy,0,0,4,2.1.0,,33,138,6129
+gunicorn,0,0,8,26.0.0,,25,98,6013
+celery,0,0,6,5.6.3,Ask Solem,23,224,6264
+redis,0,0,5,8.0.0,,52,167,5004
+pymongo,0,0,7,4.17.0,The MongoDB Python Team,44,170,6359
+psycopg2,0,0,8,2.9.12,Federico Di Gregorio,45,65,5764
+mysqlclient,0,0,11,2.2.8,,25,44,4437
+sqlparse,0,0,8,0.5.5,,28,38,5175
+Jinja2,0,0,6,3.1.6,,43,52,6586
+Werkzeug,0,0,8,3.1.8,,47,106,6769
+click,0,0,5,8.4.1,,41,63,4437
+typer,0,0,5,0.26.7,,66,86,2375
+Markdown,0,0,8,3.10.2,"Manfred Stienstra, Yuri Takhteyev",48,60,6699
+weasyprint,0,0,10,69.0,,28,119,5350
+reportlab,0,0,9,5.0.0,"Andy Robinson, Robin Becker, the ReportLab team and the community",21,100,6344
+pypdf,0,0,5,6.13.3,,93,109,4418
+pdfplumber,0,0,10,0.11.10,Jeremy Singer-Vine,74,76,3955
+python-docx,0,0,11,1.2.0,,52,38,4550
+python-pptx,0,0,11,1.0.2,,56,51,4894
+odfpy,0,0,5,1.4.1,Soren Roug,53,11,4422
+lxml,0,0,4,6.1.1,lxml dev team,96,127,6928
+xmltodict,0,0,9,1.0.4,Martin Blech,58,38,5046
+yfinance,0,0,8,1.4.1,Ran Aroussi,44,146,2583
+ccxt,0,0,4,4.5.59,Igor Kroitor,109,1599,3266
+ta,0,0,2,0.11.0,Dario Lopez Padial (Bukosabino),36,55,2998
+backtrader,0,0,10,1.9.78.123,Daniel Rodriguez,18,5,2579
+moviepy,0,0,7,2.2.1,Zulko 2024,25,89,4660
+ImageIO,0,0,7,2.37.3,ImageIO contributors,98,99,5089
+albumentations,0,0,14,2.0.8,Vladimir Iglovikov,330,87,2914
+timm,0,0,4,1.0.27,,20,78,2557
+sentence-transformers,0,0,21,5.6.0,,36,79,2523
+langchain,0,0,9,1.3.10,,53,504,1336
+gradio,0,0,6,6.19.0,,74,668,2679
+datasets,0,0,8,5.0.0,HuggingFace Inc.,60,118,3961
+evaluate,0,0,8,0.4.6,HuggingFace Inc.,62,14,1482
+peft,0,0,4,0.19.1,The HuggingFace team,38,35,1249
+accelerate,0,0,10,1.14.0,The Hugging Face team,10,82,2060
+faiss-cpu,0,0,9,1.14.3,Meta AI Research,74,28,2531
+folium,0,0,6,0.20.0,Rob Story,44,42,4781
+geopy,0,0,5,2.4.1,,24,60,7225
+wordcloud,0,0,9,1.9.6,,29,23,4111
+imbalanced-learn,0,0,16,0.14.2,,50,40,3634
+statsforecast,0,0,13,2.0.3,,54,41,1671
+prophet,0,0,7,1.3.0,,31,15,2206
+requestsx,94,1,9,Unknown,Unknown,0,0,0
+equests,93,1,7,Unknown,Unknown,0,0,0
+reqquests,94,1,9,Unknown,Unknown,0,0,0
+r1quests,88,1,8,Unknown,Unknown,0,0,0
+requestsy,94,1,9,Unknown,Unknown,0,0,0
+request,93,1,7,Unknown,Unknown,0,0,0
+requestss,94,1,9,Unknown,Unknown,0,0,0
+0equests,88,1,8,Unknown,Unknown,0,0,0
+nump,89,1,4,Unknown,Unknown,0,0,0
+nummpy,91,1,6,Unknown,Unknown,0,0,0
+umpy,89,1,4,0.1.0,Perdix Software,83,1,3513
+numpyx,91,1,6,1.6.0,eduardo moguillansky,46,32,3285
+numpyy,91,1,6,Unknown,Unknown,0,0,0
+pandasy,92,1,7,Unknown,Unknown,0,0,0
+andas,91,1,5,Unknown,Unknown,0,0,0
+panda,91,1,5,0.3.1,pandastream.com,51,8,5960
+pandass,92,1,7,Unknown,Unknown,0,0,0
+panndas,92,1,7,0.0.2,Charles Frye,25,3,1556
+pandasx,92,1,7,Unknown,Unknown,0,0,0
+djangoy,92,1,7,Unknown,Unknown,0,0,0
+djangoo,92,1,7,Unknown,Unknown,0,0,0
+jango,91,1,5,Unknown,Unknown,0,0,0
+djang,91,1,5,Unknown,Unknown,0,0,0
+djangox,92,1,7,0.1.19,Youngrok Pak,154,23,4156
+djaango,92,1,7,Unknown,Unknown,0,0,0
+flas,89,1,4,Unknown,Unknown,0,0,0
+flaskx,91,1,6,0.1,Grey Li,0,1,2222
+flaask,91,1,6,Unknown,Unknown,0,0,0
+flasky,91,1,6,0.1.0,Park Hyunwoo,28,1,4822
+flaskk,91,1,6,Unknown,Unknown,0,0,0
+lask,89,1,4,0.3.0,Open Source Lodge,34,9,393
+tensorflowlib,87,1,13,Unknown,Unknown,0,0,0
+tennsorflow,95,1,11,Unknown,Unknown,0,0,0
+ensorflow,95,1,9,Unknown,Unknown,0,0,0
+tensorflowx,95,1,11,Unknown,Unknown,0,0,0
+tensorflowpkg,87,1,13,Unknown,Unknown,0,0,0
+tensorflowy,95,1,11,Unknown,Unknown,0,0,0
+tensorflo,95,1,9,Unknown,Unknown,0,0,0
+t1nsorflow,90,1,10,Unknown,Unknown,0,0,0
+0ensorflow,90,1,10,Unknown,Unknown,0,0,0
+tensorfloww,95,1,11,Unknown,Unknown,0,0,0
+torrch,91,1,6,0.0.6,dudadu,54,6,371
+torchx,91,1,6,0.7.0,TorchX Devs,25,17,1831
+torchy,91,1,6,0.1.3,Ashim Dahal,71,9,1258
+torc,89,1,4,0.2.0,,57,3,2580
+torchh,91,1,6,0.2.0,,22,1,216
+orch,89,1,4,0.0.2,,4,4,453
+scip,89,1,4,0.1.12,Maxim Lippeveld,90,6,1452
+scipyx,91,1,6,0.0.18,Nico Schlömer,26,7,1880
+cipy,89,1,4,Unknown,Unknown,0,0,0
+sciipy,91,1,6,Unknown,Unknown,0,0,0
+scipyy,91,1,6,Unknown,Unknown,0,0,0
+matplotliby,95,1,11,Unknown,Unknown,0,0,0
+matplotli,95,1,9,Unknown,Unknown,0,0,0
+atplotlib,95,1,9,Unknown,Unknown,0,0,0
+0atplotlib,90,1,10,Unknown,Unknown,0,0,0
+mattplotlib,95,1,11,Unknown,Unknown,0,0,0
+matplotliblib,87,1,13,2,Anonymus,36,5,98
+m1tplotlib,90,1,10,Unknown,Unknown,0,0,0
+matplotlibpkg,87,1,13,Unknown,Unknown,0,0,0
+matplotlibb,95,1,11,Unknown,Unknown,0,0,0
+matplotlibx,95,1,11,0.1.3,,89,4,108
+ytest,91,1,5,0.1.4,yotong,14,4,3053
+pytes,91,1,5,7,Andreas Zeidler,17,1,0
+pytestx,92,1,7,Unknown,Unknown,0,0,0
+pyttest,92,1,7,1.0.1,Phillis,17,3,3076
+pytesty,92,1,7,Unknown,Unknown,0,0,0
+pytestt,92,1,7,Unknown,Unknown,0,0,0
+fastapii,93,1,8,Unknown,Unknown,0,0,0
+fastapiy,93,1,8,Unknown,Unknown,0,0,0
+fastap,92,1,6,Unknown,Unknown,0,0,0
+fasstapi,93,1,8,Unknown,Unknown,0,0,0
+astapi,92,1,6,Unknown,Unknown,0,0,0
+f1stapi,86,1,7,Unknown,Unknown,0,0,0
+0astapi,86,1,7,Unknown,Unknown,0,0,0
+fastapix,93,1,8,0.1.0,,54,2,1527
+s1aborn,86,1,7,Unknown,Unknown,0,0,0
+eaborn,92,1,6,Unknown,Unknown,0,0,0
+seabornn,93,1,8,Unknown,Unknown,0,0,0
+seaaborn,93,1,8,2,DedSec,36,4,97
+seabor,92,1,6,Unknown,Unknown,0,0,0
+0eaborn,86,1,7,Unknown,Unknown,0,0,0
+seaborny,93,1,8,Unknown,Unknown,0,0,0
+seabornx,93,1,8,Unknown,Unknown,0,0,0
+kerras,91,1,6,Unknown,Unknown,0,0,0
+kerasy,91,1,6,0.7.2,Shuto Iwasaki,96,24,2260
+kerass,91,1,6,Unknown,Unknown,0,0,0
+kerasx,91,1,6,Unknown,Unknown,0,0,0
+eras,89,1,4,0.5.2,Jason McAffee,97,22,763
+kera,89,1,4,1.3.0,,40,6,302
+pencv-python,96,1,12,Unknown,Unknown,0,0,0
+opencv-pythony,96,1,14,Unknown,Unknown,0,0,0
+o1encv-python,92,1,13,Unknown,Unknown,0,0,0
+0pencv-python,92,1,13,Unknown,Unknown,0,0,0
+opencv-pythonpkg,90,1,16,Unknown,Unknown,0,0,0
+opeencv-python,96,1,14,Unknown,Unknown,0,0,0
+opencv-pythonlib,90,1,16,Unknown,Unknown,0,0,0
+opencv-pythonn,96,1,14,Unknown,Unknown,0,0,0
+opencv-pythonx,96,1,14,Unknown,Unknown,0,0,0
+opencv-pytho,96,1,12,Unknown,Unknown,0,0,0
+illow,91,1,5,Unknown,Unknown,0,0,0
+pillo,91,1,5,Unknown,Unknown,0,0,0
+pilloww,92,1,7,Unknown,Unknown,0,0,0
+pilllow,92,1,7,Unknown,Unknown,0,0,0
+pillowx,92,1,7,Unknown,Unknown,0,0,0
+pillowy,92,1,7,Unknown,Unknown,0,0,0
+sqlalchem,95,1,9,Unknown,Unknown,0,0,0
+qlalchemy,95,1,9,Unknown,Unknown,0,0,0
+sqlalchemyy,95,1,11,Unknown,Unknown,0,0,0
+sqlalchemyx,95,1,11,Unknown,Unknown,0,0,0
+sqlalchemypkg,87,1,13,Unknown,Unknown,0,0,0
+0qlalchemy,90,1,10,Unknown,Unknown,0,0,0
+sqlalchemylib,87,1,13,Unknown,Unknown,0,0,0
+sqllalchemy,95,1,11,Unknown,Unknown,0,0,0
+s1lalchemy,90,1,10,Unknown,Unknown,0,0,0
+beautifulsoup4lib,90,1,17,Unknown,Unknown,0,0,0
+beautifulsoup4x,97,1,15,Unknown,Unknown,0,0,0
+beautifulsoup,96,1,13,3.2.2,Leonard Richardson,23,13,5691
+0eautifulsoup4,93,1,14,Unknown,Unknown,0,0,0
+beautifulsoup4y,97,1,15,Unknown,Unknown,0,0,0
+beaautifulsoup4,97,1,15,Unknown,Unknown,0,0,0
+beautifulsoup4pkg,90,1,17,Unknown,Unknown,0,0,0
+b1autifulsoup4,93,1,14,Unknown,Unknown,0,0,0
+beautifulsoup44,97,1,15,Unknown,Unknown,0,0,0
+eautifulsoup4,96,1,13,Unknown,Unknown,0,0,0
+streamlitx,95,1,10,Unknown,Unknown,0,0,0
+strreamlit,95,1,10,Unknown,Unknown,0,0,0
+streamlitpkg,86,1,12,Unknown,Unknown,0,0,0
+streamli,94,1,8,Unknown,Unknown,0,0,0
+0treamlit,89,1,9,Unknown,Unknown,0,0,0
+streamlitlib,86,1,12,Unknown,Unknown,0,0,0
+streamlitt,95,1,10,Unknown,Unknown,0,0,0
+streamlity,95,1,10,Unknown,Unknown,0,0,0
+treamlit,94,1,8,Unknown,Unknown,0,0,0
+s1reamlit,89,1,9,Unknown,Unknown,0,0,0
+plotl,91,1,5,Unknown,Unknown,0,0,0
+plotlyx,92,1,7,Unknown,Unknown,0,0,0
+plootly,92,1,7,Unknown,Unknown,0,0,0
+lotly,91,1,5,Unknown,Unknown,0,0,0
+plotlyy,92,1,7,Unknown,Unknown,0,0,0
+0gboost,86,1,7,Unknown,Unknown,0,0,0
+xgbboost,93,1,8,Unknown,Unknown,0,0,0
+xgboostt,93,1,8,Unknown,Unknown,0,0,0
+gboost,92,1,6,Unknown,Unknown,0,0,0
+xgboosty,93,1,8,Unknown,Unknown,0,0,0
+x1boost,86,1,7,Unknown,Unknown,0,0,0
+xgboostx,93,1,8,Unknown,Unknown,0,0,0
+xgboos,92,1,6,Unknown,Unknown,0,0,0
+jupytery,93,1,8,Unknown,Unknown,0,0,0
+jupyte,92,1,6,Unknown,Unknown,0,0,0
+0upyter,86,1,7,Unknown,Unknown,0,0,0
+jupyterr,93,1,8,Unknown,Unknown,0,0,0
+j1pyter,86,1,7,Unknown,Unknown,0,0,0
+jupyterx,93,1,8,Unknown,Unknown,0,0,0
+juppyter,93,1,8,Unknown,Unknown,0,0,0
+upyter,92,1,6,Unknown,Unknown,0,0,0
+noteboo,93,1,7,Unknown,Unknown,0,0,0
+notebooky,94,1,9,Unknown,Unknown,0,0,0
+notebookk,94,1,9,Unknown,Unknown,0,0,0
+0otebook,88,1,8,Unknown,Unknown,0,0,0
+n1tebook,88,1,8,Unknown,Unknown,0,0,0
+otebook,93,1,7,Unknown,Unknown,0,0,0
+notebookx,94,1,9,0.2.1,,29,3,447
+nottebook,94,1,9,Unknown,Unknown,0,0,0
+pydanticy,94,1,9,Unknown,Unknown,0,0,0
+pyddantic,94,1,9,Unknown,Unknown,0,0,0
+p1dantic,88,1,8,Unknown,Unknown,0,0,0
+pydanti,93,1,7,Unknown,Unknown,0,0,0
+ydantic,93,1,7,Unknown,Unknown,0,0,0
+pydanticx,94,1,9,Unknown,Unknown,0,0,0
+0ydantic,88,1,8,Unknown,Unknown,0,0,0
+pydanticc,94,1,9,Unknown,Unknown,0,0,0
+uviicorn,93,1,8,Unknown,Unknown,0,0,0
+vicorn,92,1,6,Unknown,Unknown,0,0,0
+uvicornn,93,1,8,Unknown,Unknown,0,0,0
+0vicorn,86,1,7,Unknown,Unknown,0,0,0
+uvicornx,93,1,8,Unknown,Unknown,0,0,0
+u1icorn,86,1,7,Unknown,Unknown,0,0,0
+uvicorny,93,1,8,Unknown,Unknown,0,0,0
+uvicor,92,1,6,Unknown,Unknown,0,0,0
+transformersy,96,1,13,Unknown,Unknown,0,0,0
+traansformers,96,1,13,Unknown,Unknown,0,0,0
+transformerss,96,1,13,Unknown,Unknown,0,0,0
+0ransformers,92,1,12,Unknown,Unknown,0,0,0
+transformerslib,89,1,15,Unknown,Unknown,0,0,0
+ransformers,96,1,11,Unknown,Unknown,0,0,0
+transformer,96,1,11,Unknown,Unknown,0,0,0
+transformerspkg,89,1,15,Unknown,Unknown,0,0,0
+t1ansformers,92,1,12,Unknown,Unknown,0,0,0
+transformersx,96,1,13,Unknown,Unknown,0,0,0
+nlttk,89,1,5,0.0.8,MangoJuice,17,1,70
+nltkk,89,1,5,1.3.1,M. Sai Sathvik Raj,459,4,233
+nltky,89,1,5,Unknown,Unknown,0,0,0
+nltkx,89,1,5,Unknown,Unknown,0,0,0
+spacyx,91,1,6,Unknown,Unknown,0,0,0
+spacyy,91,1,6,Unknown,Unknown,0,0,0
+spaacy,91,1,6,Unknown,Unknown,0,0,0
+pacy,89,1,4,Unknown,Unknown,0,0,0
+spac,89,1,4,Unknown,Unknown,0,0,0
+sympyx,91,1,6,Unknown,Unknown,0,0,0
+symmpy,91,1,6,Unknown,Unknown,0,0,0
+symp,89,1,4,Unknown,Unknown,0,0,0
+sympyy,91,1,6,Unknown,Unknown,0,0,0
+ympy,89,1,4,Unknown,Unknown,0,0,0
+network,93,1,7,0.1,Andrew Mulholland,70,1,3400
+nettworkx,94,1,9,Unknown,Unknown,0,0,0
+0etworkx,88,1,8,Unknown,Unknown,0,0,0
+networkxx,94,1,9,1.0.0,networkxx,76,1,180
+n1tworkx,88,1,8,Unknown,Unknown,0,0,0
+networkxy,94,1,9,Unknown,Unknown,0,0,0
+etworkx,93,1,7,Unknown,Unknown,0,0,0
+0tatsmodels,91,1,11,Unknown,Unknown,0,0,0
+staatsmodels,96,1,12,Unknown,Unknown,0,0,0
+tatsmodels,95,1,10,Unknown,Unknown,0,0,0
+statsmodelsx,96,1,12,Unknown,Unknown,0,0,0
+statsmodelslib,88,1,14,Unknown,Unknown,0,0,0
+statsmodelss,96,1,12,Unknown,Unknown,0,0,0
+statsmodelsy,96,1,12,Unknown,Unknown,0,0,0
+statsmodelspkg,88,1,14,Unknown,Unknown,0,0,0
+statsmodel,95,1,10,Unknown,Unknown,0,0,0
+s1atsmodels,91,1,11,Unknown,Unknown,0,0,0
+lightgbmm,94,1,9,Unknown,Unknown,0,0,0
+lightgb,93,1,7,Unknown,Unknown,0,0,0
+0ightgbm,88,1,8,Unknown,Unknown,0,0,0
+ightgbm,93,1,7,Unknown,Unknown,0,0,0
+l1ghtgbm,88,1,8,Unknown,Unknown,0,0,0
+ligghtgbm,94,1,9,Unknown,Unknown,0,0,0
+lightgbmx,94,1,9,Unknown,Unknown,0,0,0
+lightgbmy,94,1,9,Unknown,Unknown,0,0,0
+atboost,93,1,7,Unknown,Unknown,0,0,0
+catboostt,94,1,9,Unknown,Unknown,0,0,0
+cattboost,94,1,9,Unknown,Unknown,0,0,0
+catboos,93,1,7,Unknown,Unknown,0,0,0
+catboosty,94,1,9,Unknown,Unknown,0,0,0
+0atboost,88,1,8,Unknown,Unknown,0,0,0
+c1tboost,88,1,8,Unknown,Unknown,0,0,0
+catboostx,94,1,9,Unknown,Unknown,0,0,0
+dashh,89,1,5,Unknown,Unknown,0,0,0
+dashx,89,1,5,0.1.0,,16,1,126
+dassh,89,1,5,Unknown,Unknown,0,0,0
+dashy,89,1,5,0.0.1,Workday WPC Team,19,1,2302
+bokehy,91,1,6,Unknown,Unknown,0,0,0
+okeh,89,1,4,Unknown,Unknown,0,0,0
+boke,89,1,4,0.0.1,,44,1,1516
+bokehh,91,1,6,Unknown,Unknown,0,0,0
+bokkeh,91,1,6,Unknown,Unknown,0,0,0
+bokehx,91,1,6,Unknown,Unknown,0,0,0
+scrapyy,92,1,7,Unknown,Unknown,0,0,0
+scrrapy,92,1,7,Unknown,Unknown,0,0,0
+scrap,91,1,5,0.1,migloo,12,1,0
+scrapyx,92,1,7,Unknown,Unknown,0,0,0
+crapy,91,1,5,0.0.3,jessekrubin,17,3,2495
+sellenium,94,1,9,Unknown,Unknown,0,0,0
+seleniumm,94,1,9,Unknown,Unknown,0,0,0
+0elenium,88,1,8,Unknown,Unknown,0,0,0
+elenium,93,1,7,Unknown,Unknown,0,0,0
+s1lenium,88,1,8,Unknown,Unknown,0,0,0
+seleniu,93,1,7,Unknown,Unknown,0,0,0
+seleniumx,94,1,9,0.1.1,Paul D. Mendes,18,2,2393
+seleniumy,94,1,9,Unknown,Unknown,0,0,0
+penpyxl,93,1,7,Unknown,Unknown,0,0,0
+openpyxll,94,1,9,Unknown,Unknown,0,0,0
+openpyx,93,1,7,Unknown,Unknown,0,0,0
+openpyxly,94,1,9,Unknown,Unknown,0,0,0
+openpyxlx,94,1,9,Unknown,Unknown,0,0,0
+o1enpyxl,88,1,8,Unknown,Unknown,0,0,0
+opeenpyxl,94,1,9,Unknown,Unknown,0,0,0
+0penpyxl,88,1,8,Unknown,Unknown,0,0,0
+xlrdd,89,1,5,Unknown,Unknown,0,0,0
+xlrdy,89,1,5,Unknown,Unknown,0,0,0
+xlrdx,89,1,5,Unknown,Unknown,0,0,0
+xlrrd,89,1,5,Unknown,Unknown,0,0,0
+pyaarrow,93,1,8,Unknown,Unknown,0,0,0
+0yarrow,86,1,7,Unknown,Unknown,0,0,0
+pyarrowy,93,1,8,Unknown,Unknown,0,0,0
+pyarrowx,93,1,8,Unknown,Unknown,0,0,0
+pyarro,92,1,6,Unknown,Unknown,0,0,0
+pyarroww,93,1,8,Unknown,Unknown,0,0,0
+p1arrow,86,1,7,Unknown,Unknown,0,0,0
+yarrow,92,1,6,1.2,Thomas Thurman,43,1,0
+dassk,89,1,5,Unknown,Unknown,0,0,0
+dasky,89,1,5,Unknown,Unknown,0,0,0
+daskk,89,1,5,Unknown,Unknown,0,0,0
+daskx,89,1,5,Unknown,Unknown,0,0,0
+pysspark,93,1,8,Unknown,Unknown,0,0,0
+p1spark,86,1,7,Unknown,Unknown,0,0,0
+pysparky,93,1,8,Unknown,Unknown,0,0,0
+pysparkk,93,1,8,Unknown,Unknown,0,0,0
+pysparkx,93,1,8,Unknown,Unknown,0,0,0
+0yspark,86,1,7,Unknown,Unknown,0,0,0
+yspark,92,1,6,Unknown,Unknown,0,0,0
+pyspar,92,1,6,Unknown,Unknown,0,0,0
+oblib,91,1,5,1.1.3,SunSpec Alliance,28,7,2659
+joblibx,92,1,7,Unknown,Unknown,0,0,0
+jobli,91,1,5,Unknown,Unknown,0,0,0
+jobliby,92,1,7,Unknown,Unknown,0,0,0
+joblibb,92,1,7,Unknown,Unknown,0,0,0
+jobblib,92,1,7,Unknown,Unknown,0,0,0
+tqdmm,89,1,5,Unknown,Unknown,0,0,0
+tqdmx,89,1,5,0.0.4,KimythAnly,38,3,2012
+tqddm,89,1,5,Unknown,Unknown,0,0,0
+tqdmy,89,1,5,Unknown,Unknown,0,0,0
+aker,89,1,4,0.5.0,Ahmed Nazmy,16,1,3055
+fakerx,91,1,6,0.2.0,,24,1,156
+fakery,91,1,6,0.1.4,Gary Johnson,44,5,4451
+fakker,91,1,6,Unknown,Unknown,0,0,0
+fakerr,91,1,6,Unknown,Unknown,0,0,0
+fake,89,1,4,0.8,Brian Muller,47,8,3653
+ricch,89,1,5,Unknown,Unknown,0,0,0
+richx,89,1,5,Unknown,Unknown,0,0,0
+richy,89,1,5,Unknown,Unknown,0,0,0
+richh,89,1,5,Unknown,Unknown,0,0,0
+ttpx,89,1,4,Unknown,Unknown,0,0,0
+http,89,1,4,0.02,Franck Cuny,23,2,5245
+httpxy,91,1,6,0.0.0a1,Gabriel,45,1,1933
+htttpx,91,1,6,Unknown,Unknown,0,0,0
+httpxx,91,1,6,0.1.2,,8,3,182
+aiohttpx,93,1,8,0.0.12,Tri Songz,122,12,1287
+0iohttp,86,1,7,Unknown,Unknown,0,0,0
+iohttp,92,1,6,Unknown,Unknown,0,0,0
+a1ohttp,86,1,7,Unknown,Unknown,0,0,0
+aiohttpy,93,1,8,Unknown,Unknown,0,0,0
+aiohttpp,93,1,8,Unknown,Unknown,0,0,0
+aiohtt,92,1,6,Unknown,Unknown,0,0,0
+aioohttp,93,1,8,Unknown,Unknown,0,0,0
+ryptography,96,1,11,Unknown,Unknown,0,0,0
+cryptographylib,89,1,15,Unknown,Unknown,0,0,0
+cryyptography,96,1,13,Unknown,Unknown,0,0,0
+cryptographypkg,89,1,15,Unknown,Unknown,0,0,0
+cryptograph,96,1,11,Unknown,Unknown,0,0,0
+c1yptography,92,1,12,Unknown,Unknown,0,0,0
+0ryptography,92,1,12,Unknown,Unknown,0,0,0
+cryptographyx,96,1,13,Unknown,Unknown,0,0,0
+cryptographyy,96,1,13,Unknown,Unknown,0,0,0
+paramikoy,94,1,9,Unknown,Unknown,0,0,0
+p1ramiko,88,1,8,Unknown,Unknown,0,0,0
+paramikoo,94,1,9,Unknown,Unknown,0,0,0
+paramik,93,1,7,Unknown,Unknown,0,0,0
+aramiko,93,1,7,Unknown,Unknown,0,0,0
+parramiko,94,1,9,Unknown,Unknown,0,0,0
+0aramiko,88,1,8,Unknown,Unknown,0,0,0
+paramikox,94,1,9,Unknown,Unknown,0,0,0
+bcryptx,92,1,7,Unknown,Unknown,0,0,0
+bcryp,91,1,5,Unknown,Unknown,0,0,0
+bcrrypt,92,1,7,Unknown,Unknown,0,0,0
+crypt,91,1,5,Unknown,Unknown,0,0,0
+bcrypty,92,1,7,Unknown,Unknown,0,0,0
+bcryptt,92,1,7,Unknown,Unknown,0,0,0
+pytest-covlib,87,1,13,Unknown,Unknown,0,0,0
+pytest-co,95,1,9,Unknown,Unknown,0,0,0
+0ytest-cov,90,1,10,Unknown,Unknown,0,0,0
+pytest-covx,95,1,11,Unknown,Unknown,0,0,0
+pytest-covpkg,87,1,13,Unknown,Unknown,0,0,0
+pytest-covv,95,1,11,Unknown,Unknown,0,0,0
+p1test-cov,90,1,10,Unknown,Unknown,0,0,0
+ytest-cov,95,1,9,Unknown,Unknown,0,0,0
+pyttest-cov,95,1,11,Unknown,Unknown,0,0,0
+pytest-covy,95,1,11,Unknown,Unknown,0,0,0
+flake,91,1,5,Unknown,Unknown,0,0,0
+flake8x,92,1,7,Unknown,Unknown,0,0,0
+flaake8,92,1,7,Unknown,Unknown,0,0,0
+flake8y,92,1,7,Unknown,Unknown,0,0,0
+flake88,92,1,7,Unknown,Unknown,0,0,0
+lake8,91,1,5,Unknown,Unknown,0,0,0
+blackk,91,1,6,Unknown,Unknown,0,0,0
+blackx,91,1,6,Unknown,Unknown,0,0,0
+blacky,91,1,6,Unknown,Unknown,0,0,0
+blac,89,1,4,Unknown,Unknown,0,0,0
+blaack,91,1,6,Unknown,Unknown,0,0,0
+lack,89,1,4,23.3.0.6,,40,6,1388
+isortt,91,1,6,Unknown,Unknown,0,0,0
+isortx,91,1,6,Unknown,Unknown,0,0,0
+isorty,91,1,6,Unknown,Unknown,0,0,0
+isoort,91,1,6,Unknown,Unknown,0,0,0
+isor,89,1,4,Unknown,Unknown,0,0,0
+sort,89,1,4,Unknown,Unknown,0,0,0
+mypyx,89,1,5,Unknown,Unknown,0,0,0
+myppy,89,1,5,0.1.0,Ryan Kelly,26,1,5681
+mypyy,89,1,5,0.0.1,Ymepy,54,1,192
+0unicorn,88,1,8,Unknown,Unknown,0,0,0
+gunicor,93,1,7,Unknown,Unknown,0,0,0
+gunicorny,94,1,9,Unknown,Unknown,0,0,0
+unicorn,93,1,7,2.1.4,,27,28,3452
+g1nicorn,88,1,8,Unknown,Unknown,0,0,0
+gunicornn,94,1,9,Unknown,Unknown,0,0,0
+gunicornx,94,1,9,Unknown,Unknown,0,0,0
+gunnicorn,94,1,9,Unknown,Unknown,0,0,0
+celeryy,92,1,7,Unknown,Unknown,0,0,0
+celeryx,92,1,7,Unknown,Unknown,0,0,0
+celer,91,1,5,0.7.4,,60,14,3026
+cellery,92,1,7,Unknown,Unknown,0,0,0
+elery,91,1,5,Unknown,Unknown,0,0,0
+edis,89,1,4,Unknown,Unknown,0,0,0
+redisx,91,1,6,0.1.7,weedge,24,4,976
+reddis,91,1,6,1.0.1,,26,2,1002
+redi,89,1,4,0.15.5,CTS-IT at the University of Florida,31,4,3981
+rediss,91,1,6,Unknown,Unknown,0,0,0
+redisy,91,1,6,0.2.1,yytdfc,58,3,2889
+0ymongo,86,1,7,Unknown,Unknown,0,0,0
+pymongoy,93,1,8,Unknown,Unknown,0,0,0
+pymmongo,93,1,8,Unknown,Unknown,0,0,0
+pymongoo,93,1,8,Unknown,Unknown,0,0,0
+p1mongo,86,1,7,Unknown,Unknown,0,0,0
+pymong,92,1,6,Unknown,Unknown,0,0,0
+pymongox,93,1,8,Unknown,Unknown,0,0,0
+ymongo,92,1,6,Unknown,Unknown,0,0,0
+sycopg2,93,1,7,Unknown,Unknown,0,0,0
+p1ycopg2,88,1,8,Unknown,Unknown,0,0,0
+psycopg22,94,1,9,Unknown,Unknown,0,0,0
+psycopg2x,94,1,9,Unknown,Unknown,0,0,0
+psyycopg2,94,1,9,Unknown,Unknown,0,0,0
+psycopg2y,94,1,9,Unknown,Unknown,0,0,0
+0sycopg2,88,1,8,Unknown,Unknown,0,0,0
+psycopg,93,1,7,3.3.4,,38,61,1752
+mysqlclienty,96,1,12,Unknown,Unknown,0,0,0
+ysqlclient,95,1,10,Unknown,Unknown,0,0,0
+myssqlclient,96,1,12,Unknown,Unknown,0,0,0
+0ysqlclient,91,1,11,Unknown,Unknown,0,0,0
+mysqlclien,95,1,10,Unknown,Unknown,0,0,0
+mysqlclientpkg,88,1,14,Unknown,Unknown,0,0,0
+mysqlclientlib,88,1,14,Unknown,Unknown,0,0,0
+mysqlclientx,96,1,12,Unknown,Unknown,0,0,0
+m1sqlclient,91,1,11,Unknown,Unknown,0,0,0
+mysqlclientt,96,1,12,Unknown,Unknown,0,0,0
+sqlpars,93,1,7,Unknown,Unknown,0,0,0
+0qlparse,88,1,8,Unknown,Unknown,0,0,0
+sqlparsex,94,1,9,Unknown,Unknown,0,0,0
+sqlparsee,94,1,9,Unknown,Unknown,0,0,0
+sqllparse,94,1,9,Unknown,Unknown,0,0,0
+sqlparsey,94,1,9,Unknown,Unknown,0,0,0
+s1lparse,88,1,8,Unknown,Unknown,0,0,0
+qlparse,93,1,7,Unknown,Unknown,0,0,0
+inja2,91,1,5,Unknown,Unknown,0,0,0
+jinja,91,1,5,1.2,Armin Ronacher,84,8,7290
+jinja2x,92,1,7,Unknown,Unknown,0,0,0
+jinja22,92,1,7,Unknown,Unknown,0,0,0
+jinnja2,92,1,7,Unknown,Unknown,0,0,0
+jinja2y,92,1,7,Unknown,Unknown,0,0,0
+werkzeugx,94,1,9,Unknown,Unknown,0,0,0
+werkzeu,93,1,7,Unknown,Unknown,0,0,0
+erkzeug,93,1,7,Unknown,Unknown,0,0,0
+w1rkzeug,88,1,8,Unknown,Unknown,0,0,0
+werkzeugg,94,1,9,Unknown,Unknown,0,0,0
+werrkzeug,94,1,9,Unknown,Unknown,0,0,0
+werkzeugy,94,1,9,Unknown,Unknown,0,0,0
+0erkzeug,88,1,8,Unknown,Unknown,0,0,0
+clickx,91,1,6,Unknown,Unknown,0,0,0
+clicky,91,1,6,0.3.2,Tyler Kennedy,48,9,1036
+cliick,91,1,6,Unknown,Unknown,0,0,0
+clickk,91,1,6,Unknown,Unknown,0,0,0
+lick,89,1,4,0.10.0,"G. Wafflard-Fernandez, C.M.T. Robert",97,21,1648
+clic,89,1,4,0.1.3,AaronFlower,11,4,2564
+type,89,1,4,Unknown,Unknown,0,0,0
+typper,91,1,6,Unknown,Unknown,0,0,0
+typerr,91,1,6,Unknown,Unknown,0,0,0
+yper,89,1,4,Unknown,Unknown,0,0,0
+typery,91,1,6,Unknown,Unknown,0,0,0
+typerx,91,1,6,0.1.5,,80,6,700
+arkdown,93,1,7,Unknown,Unknown,0,0,0
+markdowny,94,1,9,Unknown,Unknown,0,0,0
+0arkdown,88,1,8,Unknown,Unknown,0,0,0
+markdownx,94,1,9,Unknown,Unknown,0,0,0
+markdow,93,1,7,Unknown,Unknown,0,0,0
+marrkdown,94,1,9,Unknown,Unknown,0,0,0
+m1rkdown,88,1,8,Unknown,Unknown,0,0,0
+markdownn,94,1,9,Unknown,Unknown,0,0,0
+easyprint,95,1,9,1.1,ThatOneCalculator (Kainoa Kanter),63,2,2685
+0easyprint,90,1,10,Unknown,Unknown,0,0,0
+weasyprintlib,87,1,13,Unknown,Unknown,0,0,0
+weasyprin,95,1,9,Unknown,Unknown,0,0,0
+weaasyprint,95,1,11,Unknown,Unknown,0,0,0
+weasyprinty,95,1,11,Unknown,Unknown,0,0,0
+weasyprintx,95,1,11,Unknown,Unknown,0,0,0
+weasyprintt,95,1,11,Unknown,Unknown,0,0,0
+w1asyprint,90,1,10,Unknown,Unknown,0,0,0
+weasyprintpkg,87,1,13,Unknown,Unknown,0,0,0
+reportla,94,1,8,Unknown,Unknown,0,0,0
+reportlabpkg,86,1,12,Unknown,Unknown,0,0,0
+reportlaby,95,1,10,Unknown,Unknown,0,0,0
+reportlablib,86,1,12,Unknown,Unknown,0,0,0
+repportlab,95,1,10,Unknown,Unknown,0,0,0
+reportlabx,95,1,10,Unknown,Unknown,0,0,0
+0eportlab,89,1,9,Unknown,Unknown,0,0,0
+reportlabb,95,1,10,Unknown,Unknown,0,0,0
+r1portlab,89,1,9,Unknown,Unknown,0,0,0
+eportlab,94,1,8,Unknown,Unknown,0,0,0
+pypdfy,91,1,6,0.1.1,David Bros Campillo,53,2,2468
+pyppdf,91,1,6,0.1.2,Peter Zagubisalo,163,7,2710
+ypdf,89,1,4,1.0,,0,1,1857
+pypdfx,91,1,6,Unknown,Unknown,0,0,0
+pypd,89,1,4,1.1.0,JD Cumpson,33,3,3363
+pypdff,91,1,6,Unknown,Unknown,0,0,0
+pdfplumberpkg,87,1,13,Unknown,Unknown,0,0,0
+pdfplumbery,95,1,11,Unknown,Unknown,0,0,0
+pdfplumberr,95,1,11,Unknown,Unknown,0,0,0
+dfplumber,95,1,9,Unknown,Unknown,0,0,0
+pdfplumbe,95,1,9,Unknown,Unknown,0,0,0
+p1fplumber,90,1,10,Unknown,Unknown,0,0,0
+pdfplumberx,95,1,11,Unknown,Unknown,0,0,0
+pdfplumberlib,87,1,13,Unknown,Unknown,0,0,0
+pdffplumber,95,1,11,Unknown,Unknown,0,0,0
+0dfplumber,90,1,10,Unknown,Unknown,0,0,0
+0ython-docx,91,1,11,Unknown,Unknown,0,0,0
+python-docxy,96,1,12,Unknown,Unknown,0,0,0
+python-docxx,96,1,12,Unknown,Unknown,0,0,0
+p1thon-docx,91,1,11,Unknown,Unknown,0,0,0
+python-doc,95,1,10,2020.10.1,Vinayak Mehta,32,5,2094
+python-docxpkg,88,1,14,Unknown,Unknown,0,0,0
+pytthon-docx,96,1,12,Unknown,Unknown,0,0,0
+ython-docx,95,1,10,Unknown,Unknown,0,0,0
+python-docxlib,88,1,14,Unknown,Unknown,0,0,0
+pytthon-pptx,96,1,12,Unknown,Unknown,0,0,0
+python-pptxx,96,1,12,Unknown,Unknown,0,0,0
+python-pptxpkg,88,1,14,Unknown,Unknown,0,0,0
+python-ppt,95,1,10,Unknown,Unknown,0,0,0
+ython-pptx,95,1,10,Unknown,Unknown,0,0,0
+python-pptxlib,88,1,14,Unknown,Unknown,0,0,0
+p1thon-pptx,91,1,11,Unknown,Unknown,0,0,0
+0ython-pptx,91,1,11,Unknown,Unknown,0,0,0
+python-pptxy,96,1,12,Unknown,Unknown,0,0,0
+odfp,89,1,4,Unknown,Unknown,0,0,0
+odffpy,91,1,6,Unknown,Unknown,0,0,0
+dfpy,89,1,4,0.1.0,Chaoming Wang,77,1,1931
+odfpyx,91,1,6,Unknown,Unknown,0,0,0
+odfpyy,91,1,6,Unknown,Unknown,0,0,0
+lxmlx,89,1,5,2.0.2,Mike Kroutikov,42,11,3377
+lxmml,89,1,5,Unknown,Unknown,0,0,0
+lxmly,89,1,5,Unknown,Unknown,0,0,0
+lxmll,89,1,5,Unknown,Unknown,0,0,0
+mltodict,94,1,8,Unknown,Unknown,0,0,0
+0mltodict,89,1,9,Unknown,Unknown,0,0,0
+xmltodictt,95,1,10,Unknown,Unknown,0,0,0
+xmltodic,94,1,8,Unknown,Unknown,0,0,0
+xmltodictpkg,86,1,12,Unknown,Unknown,0,0,0
+xmlltodict,95,1,10,Unknown,Unknown,0,0,0
+xmltodictx,95,1,10,Unknown,Unknown,0,0,0
+xmltodicty,95,1,10,Unknown,Unknown,0,0,0
+xmltodictlib,86,1,12,Unknown,Unknown,0,0,0
+x1ltodict,89,1,9,Unknown,Unknown,0,0,0
+yfinancex,94,1,9,Unknown,Unknown,0,0,0
+0finance,88,1,8,Unknown,Unknown,0,0,0
+yfinancee,94,1,9,Unknown,Unknown,0,0,0
+y1inance,88,1,8,Unknown,Unknown,0,0,0
+yfinancey,94,1,9,Unknown,Unknown,0,0,0
+yfiinance,94,1,9,Unknown,Unknown,0,0,0
+yfinanc,93,1,7,Unknown,Unknown,0,0,0
+finance,93,1,7,0.2502,Niels Henrik Bruun,113,1,4472
+ccxxt,89,1,5,Unknown,Unknown,0,0,0
+ccxty,89,1,5,Unknown,Unknown,0,0,0
+ccxtt,89,1,5,Unknown,Unknown,0,0,0
+ccxtx,89,1,5,Unknown,Unknown,0,0,0
+baccktrader,95,1,11,Unknown,Unknown,0,0,0
+acktrader,95,1,9,Unknown,Unknown,0,0,0
+backtraderlib,87,1,13,Unknown,Unknown,0,0,0
+backtrade,95,1,9,Unknown,Unknown,0,0,0
+backtradery,95,1,11,Unknown,Unknown,0,0,0
+backtraderx,95,1,11,Unknown,Unknown,0,0,0
+backtraderpkg,87,1,13,Unknown,Unknown,0,0,0
+b1cktrader,90,1,10,Unknown,Unknown,0,0,0
+0acktrader,90,1,10,Unknown,Unknown,0,0,0
+backtraderr,95,1,11,Unknown,Unknown,0,0,0
+m1viepy,86,1,7,Unknown,Unknown,0,0,0
+oviepy,92,1,6,Unknown,Unknown,0,0,0
+moviepyy,93,1,8,Unknown,Unknown,0,0,0
+movviepy,93,1,8,Unknown,Unknown,0,0,0
+moviep,92,1,6,Unknown,Unknown,0,0,0
+moviepyx,93,1,8,Unknown,Unknown,0,0,0
+0oviepy,86,1,7,Unknown,Unknown,0,0,0
+imageioo,93,1,8,Unknown,Unknown,0,0,0
+imageiox,93,1,8,Unknown,Unknown,0,0,0
+0mageio,86,1,7,Unknown,Unknown,0,0,0
+mageio,92,1,6,Unknown,Unknown,0,0,0
+imagei,92,1,6,Unknown,Unknown,0,0,0
+imageioy,93,1,8,Unknown,Unknown,0,0,0
+imaageio,93,1,8,Unknown,Unknown,0,0,0
+i1ageio,86,1,7,Unknown,Unknown,0,0,0
+0lbumentations,93,1,14,Unknown,Unknown,0,0,0
+albumentationss,97,1,15,Unknown,Unknown,0,0,0
+albumentationsx,97,1,15,2.3.1,Vladimir Iglovikov,409,25,362
+albumentationslib,90,1,17,Unknown,Unknown,0,0,0
+albumentation,96,1,13,Unknown,Unknown,0,0,0
+albumentationsy,97,1,15,Unknown,Unknown,0,0,0
+lbumentations,96,1,13,Unknown,Unknown,0,0,0
+a1bumentations,93,1,14,Unknown,Unknown,0,0,0
+albumentationspkg,90,1,17,Unknown,Unknown,0,0,0
+albbumentations,97,1,15,Unknown,Unknown,0,0,0
+timmx,89,1,5,0.4.4,Youssef Boulaouane,60,11,117
+timmm,89,1,5,Unknown,Unknown,0,0,0
+timmy,89,1,5,1.26.13,Aleksandr Dobdin,130,58,3635
+sentence-transformersy,98,1,22,Unknown,Unknown,0,0,0
+sentence-transformer,98,1,20,Unknown,Unknown,0,0,0
+s1ntence-transformers,95,1,21,Unknown,Unknown,0,0,0
+sentence-transformerspkg,93,1,24,Unknown,Unknown,0,0,0
+sentence-transformersx,98,1,22,Unknown,Unknown,0,0,0
+sentence-transformerslib,93,1,24,Unknown,Unknown,0,0,0
+sentence-transformerss,98,1,22,Unknown,Unknown,0,0,0
+0entence-transformers,95,1,21,Unknown,Unknown,0,0,0
+entence-transformers,98,1,20,Unknown,Unknown,0,0,0
+senntence-transformers,98,1,22,Unknown,Unknown,0,0,0
+langchainx,95,1,10,Unknown,Unknown,0,0,0
+angchain,94,1,8,Unknown,Unknown,0,0,0
+l1ngchain,89,1,9,Unknown,Unknown,0,0,0
+lanngchain,95,1,10,Unknown,Unknown,0,0,0
+0angchain,89,1,9,Unknown,Unknown,0,0,0
+langchainlib,86,1,12,Unknown,Unknown,0,0,0
+langchainy,95,1,10,Unknown,Unknown,0,0,0
+langchai,94,1,8,Unknown,Unknown,0,0,0
+langchainpkg,86,1,12,Unknown,Unknown,0,0,0
+langchainn,95,1,10,0.0.292,,53,1,1010
+gradioy,92,1,7,Unknown,Unknown,0,0,0
+gradiox,92,1,7,Unknown,Unknown,0,0,0
+gradioo,92,1,7,Unknown,Unknown,0,0,0
+gradi,91,1,5,Unknown,Unknown,0,0,0
+radio,91,1,5,0.1.3,Santiago Pestarini,24,14,4487
+graadio,92,1,7,Unknown,Unknown,0,0,0
+dattasets,94,1,9,Unknown,Unknown,0,0,0
+dataset,93,1,7,2.0.0,"Gregor Aisch, Stefan Wehrmeyer",41,58,4808
+0atasets,88,1,8,Unknown,Unknown,0,0,0
+datasetss,94,1,9,Unknown,Unknown,0,0,0
+d1tasets,88,1,8,Unknown,Unknown,0,0,0
+datasetsy,94,1,9,Unknown,Unknown,0,0,0
+atasets,93,1,7,Unknown,Unknown,0,0,0
+datasetsx,94,1,9,Unknown,Unknown,0,0,0
+0valuate,88,1,8,Unknown,Unknown,0,0,0
+e1aluate,88,1,8,Unknown,Unknown,0,0,0
+evaluatee,94,1,9,Unknown,Unknown,0,0,0
+evaluat,93,1,7,Unknown,Unknown,0,0,0
+valuate,93,1,7,Unknown,Unknown,0,0,0
+evaluatey,94,1,9,Unknown,Unknown,0,0,0
+evaaluate,94,1,9,Unknown,Unknown,0,0,0
+evaluatex,94,1,9,Unknown,Unknown,0,0,0
+peftx,89,1,5,Unknown,Unknown,0,0,0
+pefft,89,1,5,Unknown,Unknown,0,0,0
+pefty,89,1,5,Unknown,Unknown,0,0,0
+peftt,89,1,5,Unknown,Unknown,0,0,0
+ccelerate,95,1,9,Unknown,Unknown,0,0,0
+acccelerate,95,1,11,Unknown,Unknown,0,0,0
+acceleratepkg,87,1,13,Unknown,Unknown,0,0,0
+accelerat,95,1,9,Unknown,Unknown,0,0,0
+a1celerate,90,1,10,Unknown,Unknown,0,0,0
+acceleratey,95,1,11,Unknown,Unknown,0,0,0
+acceleratee,95,1,11,Unknown,Unknown,0,0,0
+acceleratelib,87,1,13,Unknown,Unknown,0,0,0
+acceleratex,95,1,11,Unknown,Unknown,0,0,0
+0ccelerate,90,1,10,Unknown,Unknown,0,0,0
+faiss-cpuu,95,1,10,Unknown,Unknown,0,0,0
+0aiss-cpu,89,1,9,Unknown,Unknown,0,0,0
+faiss-cpulib,86,1,12,Unknown,Unknown,0,0,0
+faiss-cp,94,1,8,Unknown,Unknown,0,0,0
+aiss-cpu,94,1,8,Unknown,Unknown,0,0,0
+faiss-cpupkg,86,1,12,Unknown,Unknown,0,0,0
+faiss-cpux,95,1,10,Unknown,Unknown,0,0,0
+faiiss-cpu,95,1,10,Unknown,Unknown,0,0,0
+faiss-cpuy,95,1,10,Unknown,Unknown,0,0,0
+f1iss-cpu,89,1,9,Unknown,Unknown,0,0,0
+follium,92,1,7,Unknown,Unknown,0,0,0
+foliu,91,1,5,Unknown,Unknown,0,0,0
+foliumm,92,1,7,Unknown,Unknown,0,0,0
+olium,91,1,5,Unknown,Unknown,0,0,0
+foliumy,92,1,7,Unknown,Unknown,0,0,0
+foliumx,92,1,7,Unknown,Unknown,0,0,0
+geopyx,91,1,6,Unknown,Unknown,0,0,0
+geoopy,91,1,6,Unknown,Unknown,0,0,0
+eopy,89,1,4,0.0,UNKNOWN,7,1,0
+geop,89,1,4,Unknown,Unknown,0,0,0
+geopyy,91,1,6,Unknown,Unknown,0,0,0
+wordcloudx,95,1,10,Unknown,Unknown,0,0,0
+wordcloudd,95,1,10,Unknown,Unknown,0,0,0
+wordcloudpkg,86,1,12,Unknown,Unknown,0,0,0
+wordcloudlib,86,1,12,Unknown,Unknown,0,0,0
+worrdcloud,95,1,10,Unknown,Unknown,0,0,0
+ordcloud,94,1,8,Unknown,Unknown,0,0,0
+w1rdcloud,89,1,9,Unknown,Unknown,0,0,0
+wordcloudy,95,1,10,Unknown,Unknown,0,0,0
+wordclou,94,1,8,Unknown,Unknown,0,0,0
+0ordcloud,89,1,9,Unknown,Unknown,0,0,0
+0mbalanced-learn,94,1,16,Unknown,Unknown,0,0,0
+mbalanced-learn,97,1,15,Unknown,Unknown,0,0,0
+imbbalanced-learn,97,1,17,Unknown,Unknown,0,0,0
+imbalanced-learnlib,91,1,19,Unknown,Unknown,0,0,0
+i1balanced-learn,94,1,16,Unknown,Unknown,0,0,0
+imbalanced-learnx,97,1,17,Unknown,Unknown,0,0,0
+imbalanced-learnpkg,91,1,19,Unknown,Unknown,0,0,0
+imbalanced-lear,97,1,15,Unknown,Unknown,0,0,0
+imbalanced-learny,97,1,17,Unknown,Unknown,0,0,0
+imbalanced-learnn,97,1,17,Unknown,Unknown,0,0,0
+statsforecastt,96,1,14,Unknown,Unknown,0,0,0
+statsforecastlib,90,1,16,Unknown,Unknown,0,0,0
+statsforecasty,96,1,14,Unknown,Unknown,0,0,0
+statsforecas,96,1,12,Unknown,Unknown,0,0,0
+staatsforecast,96,1,14,Unknown,Unknown,0,0,0
+0tatsforecast,92,1,13,Unknown,Unknown,0,0,0
+s1atsforecast,92,1,13,Unknown,Unknown,0,0,0
+tatsforecast,96,1,12,Unknown,Unknown,0,0,0
+statsforecastpkg,90,1,16,Unknown,Unknown,0,0,0
+statsforecastx,96,1,14,Unknown,Unknown,0,0,0
+prophety,93,1,8,Unknown,Unknown,0,0,0
+prophe,92,1,6,Unknown,Unknown,0,0,0
+rophet,92,1,6,Unknown,Unknown,0,0,0
+0rophet,86,1,7,Unknown,Unknown,0,0,0
+proophet,93,1,8,Unknown,Unknown,0,0,0
+prophett,93,1,8,Unknown,Unknown,0,0,0
+p1ophet,86,1,7,Unknown,Unknown,0,0,0
+prophetx,93,1,8,Unknown,Unknown,0,0,0
